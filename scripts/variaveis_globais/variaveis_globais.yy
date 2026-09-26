@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"variaveis_globais",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"variaveis_globais",
+  "parent":{
+    "name":"CLT_Runer",
+    "path":"CLT_Runer.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
